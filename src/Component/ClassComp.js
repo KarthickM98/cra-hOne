@@ -7,7 +7,6 @@
             color:"blue",
             textDecorationLine:'underline'
         }
-        
           return(
               <div className='leftblk'>
                   

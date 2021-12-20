@@ -37,8 +37,10 @@
   }
 }
 body{
+  height: 800px;
+  width: 100%;
   background-image: linear-gradient(to top, rgb(73, 183, 226),rgb(224, 145, 189));
-  background-size: cover;
+  overflow: hidden;
 }
 .leftblk,.rightblk{
   height: 300px;

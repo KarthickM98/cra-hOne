@@ -8,7 +8,6 @@ function FunctionCC(){
         color:"blue",
         textDecorationLine:'underline'
     }
-    
     return(
         <div className='rightblk'>
             <h1 className='righthead'>this is created using functional component</h1>
